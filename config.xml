@@ -1,10 +1,17 @@
-<widget id="com.gnss" version="1.0.0">
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = ""
+        versionCode = "10" 
+        version     = "1.0.0" >
+
     <name>Guru Nanak Sewa Sansthan</name>
-        <description>
-            This application is made to support Guru Nanak Sewa Sansthan, a NGO in gurgaon that works with the Underprivileged.
-        </description>
-        <author email="apooruv.jhamb@gmail.com">
-            Apache Cordova Team
-        </author>
-        <content src="index.html" />
+
+    <description>
+        An application that supports Guru Nanak Sewa Sansthan, an NGO that works for the underprivileged
+    </description>
+
+    <author>
+        Apooruv Jhamb
+    </author>
 </widget>
