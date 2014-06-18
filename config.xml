@@ -1,0 +1,10 @@
+<widget id="com.gnss" version="1.0.0">
+    <name>Guru Nanak Sewa Sansthan</name>
+        <description>
+            This application is made to support Guru Nanak Sewa Sansthan, a NGO in gurgaon that works with the Underprivileged.
+        </description>
+        <author email="apooruv.jhamb@gmail.com">
+            Apache Cordova Team
+        </author>
+        <content src="index.html" />
+</widget>
